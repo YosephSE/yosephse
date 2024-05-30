@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoseph</h1>
-<h3 align="center">A Passionate **Fullstack Developer**.</h3>
+<h3 align="center">A Passionate Fullstack Developer.</h3>
 
 - 🔭 I’m currently working on [LumiTabs](https://github.com/YosephSE/LumiTabs)
 
