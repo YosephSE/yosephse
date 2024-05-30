@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">A passionate fullstack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosephse&label=Profile%20views&color=0e75b6&style=flat" alt="yosephse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosephse" alt="yosephse" /></a> </p>
-
-- 🔭 I’m currently working on **Li**
+- 🔭 I’m currently working on [LumiTabs](https://github.com/YosephSE/LumiTabs)
 
 - 🌱 I’m currently learning **MERN**
 
