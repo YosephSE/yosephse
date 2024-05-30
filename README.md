@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [yosephse.github.io](yosephse.github.io)
+- 👨‍💻 All of my projects are available at [yosephse.github.io](https://yosephse.github.io)
 
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 
