@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [yosephse.github.io](yosephse.github.io)
 
-- https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png How to reach me **yoseph.kedir10@gmail.com**
+- 📪 How to reach me **yoseph.kedir10@gmail.com**
 
 - 📄 Know about my experiences [yosephse.github.io/resume](yosephse.github.io/resume)
 
