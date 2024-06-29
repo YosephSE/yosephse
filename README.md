@@ -34,7 +34,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact" alt="yosephse" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halleygz&show_icons=true&locale=en&layout=compact" alt="yosephse" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosephse&show_icons=true&locale=en" alt="yosephse" /></p>
 
