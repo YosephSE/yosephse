@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [yosephse.github.io](yosephse.github.io)
+- 👨‍💻 All of my projects are available at [yosephse.github.io](https://yosephse.github.io)
 
 - 📪 How to reach me **yoseph.kedir10@gmail.com**
 
-- 📄 Know about my experiences [yosephse.github.io/resume](yosephse.github.io/resume)
+- 📄 Know about my experiences [yosephse.github.io/resume](https://yosephse.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
