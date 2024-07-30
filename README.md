@@ -34,6 +34,6 @@
 
 ## Total Contributions
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosephse&theme=github_dark)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosephse)
 
 
