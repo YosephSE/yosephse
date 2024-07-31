@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LumiTabs](https://github.com/YosephSE/LumiTabs)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://yosephse.github.io](https://yosephse.github.io)
 
