@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">A Fullstack developer.</h3>
 
-- 🔭 I’m currently working on [LumiTabs](https://github.com/YosephSE/LumiTabs)
+- 🔭 I’m currently working on [Blogging App](https://github.com/YosephSE/Social-Blogging-App)
 
 - 🌱 I’m currently learning **TypeScript**
 
