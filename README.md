@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 
-- 📄 Know about my experiences [https://yosephse.github.io/resume](https://yosephse.github.io/resume)
+- 📄 Know about my experiences [https://yosephse.github.io/](https://yosephse.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
