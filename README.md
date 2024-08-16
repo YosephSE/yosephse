@@ -37,3 +37,10 @@
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosephse&theme=github_dark)
 
 
+
+
+
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YosephSE&theme=2077" height="180em" />
