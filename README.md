@@ -126,14 +126,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact&theme=dark" alt="yosephse" /></p>
 
+<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="150em" />
+<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="150em" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosephse&show_icons=true&locale=en&theme=dark" alt="yosephse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosephse&theme=dark" alt="yosephse" /></p>
 
-## Total Contributions
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosephse&theme=github_dark)
-
-<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="150em" />
-<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="150em" />
 
