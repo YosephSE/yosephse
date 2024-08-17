@@ -124,7 +124,7 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact&theme=dark" alt="yosephse" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact&theme=dark" alt="yosephse" width='150em'/></p>
 
 <img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="150em" />
 <img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="150em" />
