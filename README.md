@@ -91,7 +91,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="40" height="40"/> 
     </a> 
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact&theme=dark" alt="yosephse" width='30%' height="150px"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" width='30%' height="150px"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" width='30%' height="150px"/>
