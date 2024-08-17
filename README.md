@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Yoseph</h1>
-<h3 align="center" style="color: #ffffff;">A Fullstack developer.</h3>
+<h3 align="center" style="color: #ffffff;">A Fullstack developer</h3>
 
 - 🔭 I’m currently working on [Blogging App](https://github.com/YosephSE/Social-Blogging-App)
 
