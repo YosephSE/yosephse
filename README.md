@@ -97,9 +97,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" width='30%' height="150px"/>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 80%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yosephse&show_icons=true&locale=en&theme=dark" alt="yosephse" style="width: 100%; margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosephse&theme=dark" alt="yosephse" style="width: 100%;" />
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yosephse&show_icons=true&locale=en&theme=dark" alt="yosephse" style="width: 40%; margin-bottom: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosephse&theme=dark" alt="yosephse" style="width: 40%;" />
 </div>
 
 
