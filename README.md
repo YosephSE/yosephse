@@ -134,6 +134,6 @@
 
 ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosephse&theme=github_dark)
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="380em" />
+<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YosephSE&theme=2077" height="150em" />
+<img align="center" style="display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosephSE&theme=2077" height="150em" />
 
