@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://yosephse.github.io](https://yosephse.github.io)
+- 👨‍💻 All of my projects are available at [http://yosephk.me](http://yosephk.me)
 
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 
