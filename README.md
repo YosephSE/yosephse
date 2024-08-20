@@ -14,8 +14,7 @@
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/YosephSE?tab=repositories)
+<div>[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/YosephSE?tab=repositories)</div>
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
 
