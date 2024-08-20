@@ -1,15 +1,18 @@
 
-# Hi 👋, I'm Yoseph
-## A Fullstack Developer
+<h1 align="center">Hi 👋, I'm Yoseph</h1>
+<h3 align="center">A Fullstack Developer</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/YosephSE)
+<div align="center">
+  <a href="https://github.com/YosephSE">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
+  </a>
+</div>
 
 - 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [http://yosephk.me](http://yosephk.me)
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
-
 
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
