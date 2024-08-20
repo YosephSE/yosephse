@@ -1,16 +1,15 @@
 
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Yoseph</h1>
-<h3 align="center" style="color: #ffffff;">A Fullstack developer</h3>
+# Hi 👋, I'm Yoseph
+## A Fullstack Developer
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/YosephSE)
+
 - 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
-
 - 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [http://yosephk.me](http://yosephk.me)
-
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
-
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
+
 
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
