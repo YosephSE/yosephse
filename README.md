@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yosephse)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/YosephSE)
 
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Yoseph</h1>
 <h3 align="center" style="color: #ffffff;">A Fullstack developer</h3>
