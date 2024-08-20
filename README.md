@@ -25,24 +25,17 @@
 
 </p>
 
-<div style="width: 100%; align:center;">
-  <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 49%;">
-  </a>
-   <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 49%;">
-  </a>
-</div>
+
 
 <div style="width: 100%; align:center;">
   <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
   </a>
    <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
   </a>
   <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,bootstrap,tailwind,express&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
   </a>
 </div>
 <!-- <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3> -->
