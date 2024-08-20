@@ -15,6 +15,7 @@
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
 
 <div>[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&includeNames=true)](https://github.com/YosephSE?tab=repositories)</div>
+<div>[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,bootstrap,tailwind,express)](https://github.com/Jurredr/github-widgetbox)</div>
 <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
 
