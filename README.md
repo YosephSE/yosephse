@@ -34,9 +34,7 @@
    <a href="https://github.com/YosephSE?tab=repositories">
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
   </a>
-  <a href="https://github.com/YosephSE?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 32%;">
-  </a>
+  
 </div>
 <!-- <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3> -->
 
