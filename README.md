@@ -1,6 +1,6 @@
-<!--<h1 align="center">Hi 👋, I'm Yoseph</h1>
+<h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">A Fullstack Developer</h3>
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/YosephSE">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
   </a>
