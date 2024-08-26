@@ -24,8 +24,6 @@
 
 </p>
 
-
-
 <div style="width: 100%; align:center;">
   <a href="https://github.com/YosephSE?tab=repositories">
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
