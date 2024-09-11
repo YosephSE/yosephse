@@ -12,7 +12,6 @@
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
 
-
 <h3 align="left" style="">Connect with me:</h3>
 <p align="left" style="display: flex">
 
