@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
 
 <h3 align="left" style="">Connect with me:</h3>
-
+ 
 <p align="left" style="display: flex">
 
 <a href="https://linkedin.com/in/yoseph-kedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoseph-kedir" height="30" width="40" /></a>
