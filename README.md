@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [http://yosephk.me](http://yosephk.me)
+- 👨‍💻 All of my projects are available at [https://yosephk.me](https://yosephk.me)
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
 - 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
 
