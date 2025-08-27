@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://yosephk.me](https://yosephk.me)
 - 📫 How to reach me **yoseph.kedir10@gmail.com**
-- 📄 Know about my experiences [http://yosephk.me](http://yosephk.me)
+- 📄 Know about my experiences [http://yosephk.com](http://yosephk.com)
 
 <h3 align="left" style="">Connect with me:</h3>
  
