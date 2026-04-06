@@ -28,7 +28,7 @@
 </p>
 
 
-<div style="width: 100%; align:center;">
+<!-- <div style="width: 100%; align:center;">
   <a href="https://github.com/YosephSE?tab=repositories">
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
   </a>
@@ -36,7 +36,7 @@
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
   </a>
   
-</div>
+</div> -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosephse&show_icons=true&locale=en&layout=compact&theme=dark" alt="yosephse" width='33%' height="150px"/>
