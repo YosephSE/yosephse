@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">A Fullstack Developer</h3>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/YosephSE">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=yosephse&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
   </a>
-</div>
+</div> -->
 
 
 
 
-- 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
+- 🔭 I’m currently working on [Tabs](https://github.com/LumiTabs/)
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 All of my projects are available at [https://yosephk.me](https://yosephk.me)
-- 📫 How to reach me **yoseph.kedir10@gmail.com**
+- 👨‍💻 All of my projects are available at [https://yosephk.com](https://yosephk.com)
+- 📫 How to reach me **yoseph@yosephk.com**
 - 📄 Know about my experiences [http://yosephk.com](http://yosephk.com)
 
 <h3 align="left" style="">Connect with me:</h3>
